@@ -1,1 +1,1 @@
-# HTML-odev-1
+# HTML dersi Ödev 1,2
